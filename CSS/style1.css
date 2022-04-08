@@ -1,0 +1,39 @@
+.box1{
+   
+    text-align: center;
+   
+}
+
+body{
+    
+    
+    background-image: url("../image/haikei3.jpg");
+    text-align: center;
+}
+
+/*
+ul {
+
+    list-style: none;
+    display: flex;
+    text-align: center;
+  }*/
+
+table {
+
+    margin: auto;
+    
+  }
+
+td{
+
+    color: black;
+    font-weight: 1000;
+
+}
+
+
+
+  
+
+
